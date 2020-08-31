@@ -1,4 +1,4 @@
-covid-19-analysis
+covid-19 Analysis ,Visualization and forecasting
 ==============================
 
 Project Organization
