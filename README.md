@@ -1,8 +1,6 @@
 covid-19-analysis
 ==============================
 
-PreForecasting for covid-19 and analysis.
-
 Project Organization
 ------------
 
